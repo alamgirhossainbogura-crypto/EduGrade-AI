@@ -1,0 +1,31 @@
+================================================================================
+EDUGRADE AI - DEMO STUDENT SUBMISSION (FOR TESTING)
+================================================================================
+
+Student ID: STU-2027
+Assignment: Python Function & Error Handling Exercise
+
+--------------------------------------------------------------------------------
+[STUDENT CODE SUBMISSION]
+--------------------------------------------------------------------------------
+
+def calculate_average(numbers):
+    # Missing input validation check for empty list
+    total = sum(numbers)
+    return total / len(numbers)
+
+def Process_User_Data(file_path):
+    # Poor naming convention (should be snake_case: process_user_data)
+    try:
+        f = open(file_path, 'r')
+        data = f.read()
+        # Missing f.close() - Resource leak potential!
+        print("Data processed successfully")
+        return data
+    except:
+        # Bare except clause - Bad practice, should catch specific exceptions
+        print("An error occurred")
+        return None
+
+# Test case that will crash the first function (ZeroDivisionError)
+# print(calculate_average([]))
