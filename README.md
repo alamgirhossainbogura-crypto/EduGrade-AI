@@ -66,7 +66,8 @@ QWEN_API_KEY=your_secured_qwen_cloud_api_token
 ALIBABA_CLOUD_ECS_IP=your_allocated_instance_public_ip
 SENDER_EMAIL_SMTP=your_configured_classroom_mail_gateway
 ## 4. Local Execution
-streamlit run backend/app.py
+streamlit run frontend/ui.py
+
 
 ## 🛠️ System Architecture
 
