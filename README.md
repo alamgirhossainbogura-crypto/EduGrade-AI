@@ -6,6 +6,19 @@ By leveraging **Qwen Cloud's advanced reasoning flagship models** and hosted ent
 
 ---
 
+## ☁️ Alibaba Cloud & Qwen Integration Proof
+We are utilizing Qwen Cloud flagship models via **Alibaba Cloud DashScope API** for all intelligent reasoning and grading tasks.
+
+### Account Verification
+![Alibaba Cloud Account Overview](docs/AXRecorder_20260719_02_2.jpg)
+*Registered account access within the Alibaba Cloud ecosystem.*
+
+### Infrastructure Status
+![Alibaba Cloud Dashboard](docs/20260719_171034.jpg)
+*Authenticated infrastructure environment.*
+
+---
+
 ## 🚀 Core Features & Capabilities
 
 ### 🔍 1. Context-Aware Autonomous Evaluation
