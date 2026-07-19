@@ -14,7 +14,7 @@ We are utilizing Qwen Cloud flagship models via **Alibaba Cloud DashScope API** 
 *Registered account access within the Alibaba Cloud ecosystem.*
 
 ### Infrastructure Status
-![Alibaba Cloud Dashboard](docs/20260719_171034.jpg)
+![Alibaba Cloud Dashboard](AXRecorder_20260719_02.jpg)
 *Authenticated infrastructure environment.*
 
 ---
