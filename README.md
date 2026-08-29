@@ -49,6 +49,7 @@ The moment an educator hits "Approve," a dedicated background worker triggers. I
 ​Data Validation: Pydantic
 ​Version Control & Hosting: Git, GitHub
 ## ​📁 Production Repository Structure
+```text
 EduGrade-AI/
 ├── backend/
 │   ├── app.py              # Asynchronous application entry point
@@ -61,7 +62,8 @@ EduGrade-AI/
 │   └── architecture.png    # High-resolution system topology diagram
 ├── LICENSE                 # MIT Open Source License
 └── README.md               # System documentation & deployment manifest
-
+```
+---
 ## 📦 Local Installation & Deployment Guide
 ​Prerequisites
 ​Python 3.10 or higher installed.
